@@ -1,0 +1,25 @@
+/* sabermas.component.css */
+.bg-white {
+    background-color: #fff;
+  }
+  
+  .p-5 {
+    padding: 3rem;
+  }
+  
+  .rounded {
+    border-radius: 0.5rem;
+  }
+  
+  .shadow {
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+  }
+  
+  .font-weight-bold {
+    font-weight: 700;
+  }
+
+  .g{
+    background-color: #00000094 !important;
+    color: white;
+    }

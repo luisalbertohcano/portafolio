@@ -1,0 +1,28 @@
+/* trabajarconmigo.component.css */
+.bg-white {
+    background-color: #fff;
+  }
+  
+  .p-4 {
+    padding: 2rem;
+  }
+  
+  .rounded {
+    border-radius: 0.5rem;
+  }
+  
+  .shadow {
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+  }
+  
+  .font-weight-bold {
+    font-weight: 700;
+  }
+  
+  .text-uppercase {
+    text-transform: uppercase;
+  }
+  
+  .font-italic {
+    font-style: italic;
+  }
